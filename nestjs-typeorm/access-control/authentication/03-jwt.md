@@ -163,3 +163,5 @@ Learn more about JWTs in general: <https://jwt.io/>
   }
   // ...
   ```
+
+## [⬅️ Previous](./02-sign-routes.md) | [➡️ Next](./04-guards.md)
